@@ -12,5 +12,10 @@
 	"commitmessage.coffee",
 	"ackbar.coffee",
 	"bitcoin.coffee",
-	"jira-issues.coffee"
+	"jira-issues.coffee",
+	"karma.coffee",
+	"likeaboss.coffee",
+	"swanson.coffee",
+	"uptime.coffee",
+	"wunderground.coffee"
 ]
