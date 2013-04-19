@@ -19,5 +19,6 @@
 	"uptime.coffee",
 	"wunderground.coffee",
 	"coin.coffee",
-	"decide.coffee"
+	"decide.coffee",
+	"kittens.coffee"
 ]
