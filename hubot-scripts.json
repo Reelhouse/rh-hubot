@@ -11,5 +11,6 @@
 	"cowsay.coffee",
 	"commitmessage.coffee",
 	"ackbar.coffee",
-	"bitcoin.coffee"
+	"bitcoin.coffee",
+	"jira-issues.coffee"
 ]
