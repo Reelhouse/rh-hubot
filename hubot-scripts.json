@@ -17,5 +17,7 @@
 	"likeaboss.coffee",
 	"swanson.coffee",
 	"uptime.coffee",
-	"wunderground.coffee"
+	"wunderground.coffee",
+	"coin.coffee",
+	"decide.coffee"
 ]
