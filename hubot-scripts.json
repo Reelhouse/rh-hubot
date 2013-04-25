@@ -22,5 +22,6 @@
 	"decide.coffee",
 	"kittens.coffee",
 	"panzy.coffee",
-	"rheats.coffee"
+	"rheats.coffee",
+	"github-status.coffee"
 ]
