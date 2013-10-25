@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n Hubot
+web: bin/hubot --adapter slack
